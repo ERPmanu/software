@@ -16,18 +16,4 @@ Nommage des fichiers : `manu-<cible>-v<version>`
 | Windows | — | À venir |
 | macOS | — | À venir |
 
-## Installer sur Android
-
-1. Télécharger le `.apk` **depuis l'appareil** (téléphone ou tablette).
-2. À l'ouverture, Android demande d'autoriser l'installation depuis
-   cette source : accepter.
-3. Pour une mise à jour, installer par-dessus — les données locales
-   sont conservées.
-
-> Ne pas désinstaller l'application pour la mettre à jour : cela
-> effacerait les données hors-ligne non encore synchronisées.
-
-## Dernière version
-
-Chaque cible publie un manifeste lisible par programme :
 
